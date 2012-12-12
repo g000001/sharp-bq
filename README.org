@@ -1,0 +1,6 @@
+* lisp machine sharp backquote
+
+- licence new bsd
+  http://code.google.com/p/jrm-code-project/source/browse/trunk/lambda/io/read.lisp
+
+ 
